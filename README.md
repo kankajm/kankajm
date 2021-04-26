@@ -18,7 +18,7 @@
 ---
 
 ##### Achievements: 
-- ![Discord Verified Bot Developer]()
+- ![Discord Verified Bot Developer](https://discord.com/assets/45cd06af582dcd3c6b79370b4e3630de.svg)
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kankajm&show_icons=true&theme=tokyonight)
