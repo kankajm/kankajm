@@ -18,7 +18,7 @@
 ---
 
 ##### Achievements: 
-- ![Discord Verified Bot Developer](https://i.imgur.com/PfUUY4U_d.webp)
+- ![Discord Verified Bot Developer](https://i.imgur.com/xvNzOBQ_d.webp?maxwidth=760&fidelity=grand)
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kankajm&show_icons=true&theme=tokyonight)
