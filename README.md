@@ -17,4 +17,8 @@
 -   ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=C%20sharp)
 ---
 
+##### Achievements: 
+- ![Discord Verified Bot Developer](https://i.imgur.com/o12Ofsx.png)
+---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kankajm&show_icons=true&theme=tokyonight)
