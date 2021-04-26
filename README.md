@@ -19,7 +19,7 @@
 ---
 
 ##### Achievements: 
-- ![Verified Bot Developer](https://i.imgur.com/xvNzOBQ_d.webp) Verified Bot Developer (On Discord thanks to my CoronaBotJS)
+- ![Verified Bot Developer](https://i.imgur.com/xvNzOBQ_d.webp) Verified Bot Developer
 ---
 
 ##### Contacts:
