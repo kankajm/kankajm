@@ -21,4 +21,11 @@
 - ![Verified Bot Developer](https://i.imgur.com/xvNzOBQ_d.webp) Verified Bot Developer
 ---
 
+##### Contacts:
+###### If you want to contact me feel free to use these contacts below
+- **Email:** kanka@kankaj.cz
+- **Discord** kankaj#2731
+- **LinkedIn** https://www.linkedin.com/in/jaroslav-ka%C5%88ka-956a251a3/
+---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kankajm&show_icons=true&theme=tokyonight)
