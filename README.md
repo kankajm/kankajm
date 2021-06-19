@@ -1,6 +1,7 @@
 ##### Bio: 
 ### ✨ Hello world! Welcome on my GitHub profile.
 --- 
+<img src="https://komarev.com/ghpvc/?username=kankajm&color=5865F2" alt="kankajm" />
 
 ##### Skills:
 -   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=flat-square&logo=Node.js)
