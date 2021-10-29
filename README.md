@@ -16,6 +16,7 @@
 -   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
 -   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 -   ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=C%20sharp)
+-   ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ---
 
 ##### Achievements: 
