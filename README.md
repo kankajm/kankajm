@@ -28,4 +28,3 @@
 - **Email:** kanka@kankaj.cz
 - **Discord** kankaj#2731
 - **LinkedIn** https://www.linkedin.com/in/kankaj
----
