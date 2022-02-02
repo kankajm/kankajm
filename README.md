@@ -1,11 +1,10 @@
 ##### Bio: 
-### Hello 👋 Welcome on my GitHub profile.
+### Hello 👋
 --- 
 
 ##### Skills:
 -   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=flat-square&logo=Node.js)
 -   ![Discord.JS](https://img.shields.io/badge/-Discord.JS-black?style=flat-square&logo=Discord)
--   ![Electron.JS](https://img.shields.io/badge/-Electron.JS-black?style=flat-square&logo=Electron)
 -   ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 ---
 
